@@ -8,9 +8,9 @@
 - Add a new task
 - Login and user authentication
 - Database conection
-- admin panel
-- admin can see all users task 
-- delete task
+- Admin panel
+- Admin can see all users task 
+- Delete task
 
 
 
